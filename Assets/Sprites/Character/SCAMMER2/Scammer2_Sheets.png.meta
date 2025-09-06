@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 2009dc2f4aafdea4993c13758751c5f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scammer2_Sheets_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 674
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a95f4be2db18f4181e891aeae387f1
+      internalID: -1828408392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 674
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46d991766644bc4b969d6518270499f
+      internalID: -1538825826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 674
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5e0830b7274b48886ee82d7915a1d
+      internalID: 996517685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 674
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797b4d9efc46de47a8ae9604c4d6ca9
+      internalID: -713339507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 674
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a710d81caf80c4f94d59a1bad524cd
+      internalID: -491186854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 674
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fdb7a11884bd045a8fc29465fd78de
+      internalID: -1378640060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 675
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6452d9a35c511ae4c8270b4d2b6836f8
+      internalID: 1934504661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 674
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e440df39157cc45865b70f9fe0a80a
+      internalID: -1289591976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 675
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b39155b79c99949893443a401f9ee9
+      internalID: -765055537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 674
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87054ca3dd374ef4baff4907c6efa7cb
+      internalID: 1654876238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 674
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c6be9f8417bd46910f9607992cd28
+      internalID: -1925106987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 674
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b84bdd96521941a6b4a35c18e446a
+      internalID: -1088414562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 578
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d0e26930d3bd34c8763ff86bfde060
+      internalID: 1569231866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 578
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af572cc92b11347459e700ca51a00a18
+      internalID: -1463406588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 578
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bcb2df04ed85b44824bd472fcc3984
+      internalID: 590677254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 578
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b8788e2f68304b8d7937235563e37
+      internalID: -1213636482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 578
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a7c09aa3bff424eadfd76b9b76270f
+      internalID: 1578098176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 578
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8553984a9d9389045b4e60494f5ea5b7
+      internalID: -1358595124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 578
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e7f693a222564fa88583a1ffcad2c
+      internalID: 796058680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 578
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e88684552bd54381e0ad6cb333c55
+      internalID: -1434523835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 578
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16871104c8f94974a9c185abb5f76981
+      internalID: -181287216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 578
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137723b8c5d9dd4448a5e04dd9ce6069
+      internalID: 1198310664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 578
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f8f4b4fad79e45abf7b902c778e14
+      internalID: 107491649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c69f849ba53d4286c65abd4a80b34
+      internalID: 1739156272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 482
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022e1f3fa5184840814268b80323757
+      internalID: -955459549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 482
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b668563609a6ab3429a281b06abcba00
+      internalID: 1488492235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 482
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa596ed7b41bf4d8a4d2c229e7ac7e
+      internalID: 68215460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 482
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5298c085e07c489e110e1279e9f09
+      internalID: 858599320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 482
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc8168e3a00b694f9fd20687eb21370
+      internalID: -1440780231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 482
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73278ac565716a14d9368d6746b497dd
+      internalID: -1562120848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 482
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367947e34ef8698419503725914486d4
+      internalID: 1433071367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 482
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec167596bd7b0c4cb69ccba85d3a7d7
+      internalID: 458860618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 482
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742733599bbd7444bbd1f1550c81410
+      internalID: -141215781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 482
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db40aca393e35f84b94332e086981c59
+      internalID: 2071386647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 482
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82cd864026dc814798b32f674fc2685
+      internalID: 506956082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 482
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140ac0e1fcea0e48a01d7e6432b72cf
+      internalID: 694945653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 386
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69ac58c453e684f94c0b29b029d4b8
+      internalID: 643400571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 386
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348df3f3b1a9bc74e973654ab7f31b11
+      internalID: 1916915793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 386
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b875d8dd4aed174bb72f8fb135445df
+      internalID: -1632351936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 386
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfcfa713fa39e6458dcb106fc744649
+      internalID: 385046556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 386
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa865950cdcdf7439f34140915e8b6d
+      internalID: 1479935690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 386
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a6981426f1e1846852c69d05e79b59
+      internalID: 388573443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 386
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da037a259d3d92d448a4235d925a4cfb
+      internalID: -966912531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 386
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d34121b85f46d4d9407f9f38138d88
+      internalID: 38856684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 386
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df83014152deb94684c62622de2c210
+      internalID: 31675420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 386
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3706fc5de7e8044889be85d06bd8c7
+      internalID: -488369196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 386
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f5fdc0e46f3f44e81e3ca6b04c4f58
+      internalID: -479936576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 386
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c175d031ed6dd468006c66a20db2aa
+      internalID: -967451385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 290
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9cec7b0abeca4588b960a607eec6f
+      internalID: -2135739196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 290
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b4385853e657f4193167ee6b6669f6
+      internalID: -1409562771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 290
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c55b0f979a0f458c83882b7d9c419
+      internalID: 1294000147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 290
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ded2e3de565245bdcd73383818c11
+      internalID: -928199088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 290
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfa8426289c7e44482cc64ae86830cf
+      internalID: -1373504232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 290
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ef3d6ef41d8947b9e20be5adc734f
+      internalID: 357010166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 298
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba394fa564577994181ac5a16f8ccb86
+      internalID: -1081588558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 299
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a9dd15f97b1240be44e5043856bf0
+      internalID: -842548243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 298
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b51f9964a32334d9e073b52e07eb0b
+      internalID: -265068174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 290
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740f2ca5748aac4eab4a69195592d88
+      internalID: -379487474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_58
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 290
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25292ff242277fe47946cccdb3ca9dfd
+      internalID: 316256022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 290
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcce2fcc7150549ac5ca8b6757a438
+      internalID: 1708707710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 194
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25723d42209011b469399a7f84bc6b4c
+      internalID: -598472626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6648dd9e529ab46873ea6b0ead7580
+      internalID: -613753700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 194
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d28f911550b6c43be3d84307cf464c
+      internalID: -823009910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 194
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95816a71b3545b34e9f8ab8f61c90fed
+      internalID: 685923662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7a29e6b8191f341bb1254d04e04a59
+      internalID: 819310525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7e736479f7624ca2a95d86b2eb9ee
+      internalID: 716636282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 205
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b3a7f998c9bc488ea728249399cdd
+      internalID: -2007969202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 209
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f0b1cc74d1a5944b3b85b0a60904f0
+      internalID: -542573056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 209
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695bf127666c9e46a7176b255d7f0d5
+      internalID: -2033878288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 194
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798a8bb32f3681e4c95ca19855ba5773
+      internalID: -1885682288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_70
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 194
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9203074ff2dc0ec4c8d52dfdcc7d3099
+      internalID: 1742172970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 194
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af65a3e930511848b681fd43088dbb9
+      internalID: 1471934479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 98
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0affd6a491bbf5419ed7f1c74879709
+      internalID: -209047198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 98
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d236df6ebfac644a2a35ae86e7feb2
+      internalID: -1021301096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de60f900d733d4d848610f2303674c
+      internalID: 1960976055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 98
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9dbd0e827851f42b06c7568bfb13ca
+      internalID: -2050877470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_76
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbb397458fb6049857615b6746a307
+      internalID: -1584609076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 98
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842739cd96adc494fb6409f8e5c338c8
+      internalID: -371890412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 98
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b797141faa16daa489742e9e1a626ce8
+      internalID: 2117386324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_79
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 98
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267873fb22a726745afa760845b02191
+      internalID: 439672429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 98
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c441fa86fd0c2144f8a34f833320ee86
+      internalID: 2079815483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_81
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 98
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498d64cc9489804faeffda22ae1d80b
+      internalID: -687826515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5160c822c0c74eb6e00893d052cc6
+      internalID: -1431219883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 98
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d4829b9f532d744b5c6d3df7574410
+      internalID: -1554325642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca0ed585ca20942981a45fc671462a
+      internalID: -1710541610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735ecf7be9a13ac40b69eb0955aa519b
+      internalID: -1329936712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6e9249cf4f0944b004a32a5e92c49
+      internalID: 872299447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81285fbae60804441988d3605deead4a
+      internalID: -914497578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb23e88470da9f469cdb1264bdd5804
+      internalID: 937895856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_89
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0009be61dc50fe4a8912c63d34d462e
+      internalID: -1449467712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1147c324084776446aacef1581874145
+      internalID: -2083790325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d7bd3dcf23cb4e9b56084e1847189
+      internalID: -45831274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a411d6b6013894ca11dbf74d186d7e
+      internalID: 765550822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_93
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f596c74f4a338045be5c2a4ed5982d2
+      internalID: -710093321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e006e93522a84faa64c65ae1d6269
+      internalID: 595297339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scammer2_Sheets_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828e60a7b95a0c14eae4dd9bce0db37a
+      internalID: 1986776809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scammer2_Sheets_0: -1828408392
+      Scammer2_Sheets_1: -1538825826
+      Scammer2_Sheets_10: -1925106987
+      Scammer2_Sheets_11: -1088414562
+      Scammer2_Sheets_12: 1569231866
+      Scammer2_Sheets_13: -1463406588
+      Scammer2_Sheets_14: 590677254
+      Scammer2_Sheets_15: -1213636482
+      Scammer2_Sheets_16: 1578098176
+      Scammer2_Sheets_17: -1358595124
+      Scammer2_Sheets_18: 796058680
+      Scammer2_Sheets_19: -1434523835
+      Scammer2_Sheets_2: 996517685
+      Scammer2_Sheets_20: -181287216
+      Scammer2_Sheets_21: 1198310664
+      Scammer2_Sheets_22: 107491649
+      Scammer2_Sheets_23: 1739156272
+      Scammer2_Sheets_24: -955459549
+      Scammer2_Sheets_25: 1488492235
+      Scammer2_Sheets_26: 68215460
+      Scammer2_Sheets_27: 858599320
+      Scammer2_Sheets_28: -1440780231
+      Scammer2_Sheets_29: -1562120848
+      Scammer2_Sheets_3: -713339507
+      Scammer2_Sheets_30: 1433071367
+      Scammer2_Sheets_31: 458860618
+      Scammer2_Sheets_32: -141215781
+      Scammer2_Sheets_33: 2071386647
+      Scammer2_Sheets_34: 506956082
+      Scammer2_Sheets_35: 694945653
+      Scammer2_Sheets_36: 643400571
+      Scammer2_Sheets_37: 1916915793
+      Scammer2_Sheets_38: -1632351936
+      Scammer2_Sheets_39: 385046556
+      Scammer2_Sheets_4: -491186854
+      Scammer2_Sheets_40: 1479935690
+      Scammer2_Sheets_41: 388573443
+      Scammer2_Sheets_42: -966912531
+      Scammer2_Sheets_43: 38856684
+      Scammer2_Sheets_44: 31675420
+      Scammer2_Sheets_45: -488369196
+      Scammer2_Sheets_46: -479936576
+      Scammer2_Sheets_47: -967451385
+      Scammer2_Sheets_48: -2135739196
+      Scammer2_Sheets_49: -1409562771
+      Scammer2_Sheets_5: -1378640060
+      Scammer2_Sheets_50: 1294000147
+      Scammer2_Sheets_51: -928199088
+      Scammer2_Sheets_52: -1373504232
+      Scammer2_Sheets_53: 357010166
+      Scammer2_Sheets_54: -1081588558
+      Scammer2_Sheets_55: -842548243
+      Scammer2_Sheets_56: -265068174
+      Scammer2_Sheets_57: -379487474
+      Scammer2_Sheets_58: 316256022
+      Scammer2_Sheets_59: 1708707710
+      Scammer2_Sheets_6: 1934504661
+      Scammer2_Sheets_60: -598472626
+      Scammer2_Sheets_61: -613753700
+      Scammer2_Sheets_62: -823009910
+      Scammer2_Sheets_63: 685923662
+      Scammer2_Sheets_64: 819310525
+      Scammer2_Sheets_65: 716636282
+      Scammer2_Sheets_66: -2007969202
+      Scammer2_Sheets_67: -542573056
+      Scammer2_Sheets_68: -2033878288
+      Scammer2_Sheets_69: -1885682288
+      Scammer2_Sheets_7: -1289591976
+      Scammer2_Sheets_70: 1742172970
+      Scammer2_Sheets_71: 1471934479
+      Scammer2_Sheets_72: -209047198
+      Scammer2_Sheets_73: -1021301096
+      Scammer2_Sheets_74: 1960976055
+      Scammer2_Sheets_75: -2050877470
+      Scammer2_Sheets_76: -1584609076
+      Scammer2_Sheets_77: -371890412
+      Scammer2_Sheets_78: 2117386324
+      Scammer2_Sheets_79: 439672429
+      Scammer2_Sheets_8: -765055537
+      Scammer2_Sheets_80: 2079815483
+      Scammer2_Sheets_81: -687826515
+      Scammer2_Sheets_82: -1431219883
+      Scammer2_Sheets_83: -1554325642
+      Scammer2_Sheets_84: -1710541610
+      Scammer2_Sheets_85: -1329936712
+      Scammer2_Sheets_86: 872299447
+      Scammer2_Sheets_87: -914497578
+      Scammer2_Sheets_88: 937895856
+      Scammer2_Sheets_89: -1449467712
+      Scammer2_Sheets_9: 1654876238
+      Scammer2_Sheets_90: -2083790325
+      Scammer2_Sheets_91: -45831274
+      Scammer2_Sheets_92: 765550822
+      Scammer2_Sheets_93: -710093321
+      Scammer2_Sheets_94: 595297339
+      Scammer2_Sheets_95: 1986776809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
