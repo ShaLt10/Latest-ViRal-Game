@@ -1,4 +1,0 @@
-repository "ViRal-DLH@Shafa10@cloud"
-  path "/"
-    br "/main"
-    co "/main"
