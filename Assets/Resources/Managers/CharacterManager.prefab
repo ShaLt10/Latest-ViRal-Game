@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &498709920768367685
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6620813605861316976}
+  - component: {fileID: 390959004768005496}
+  m_Layer: 0
+  m_Name: CharacterManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6620813605861316976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 498709920768367685}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4146.0186, y: 1979.4264, z: 5.892257}
+  m_LocalScale: {x: 1.4431351, y: 1.4431351, z: 1.4431351}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &390959004768005496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 498709920768367685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ddd756ab475f124586ac9902c366505, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedCharacter: 0
+  allPortraits:
+  - portraitName: Raline_Default
+    sprite: {fileID: 21300000, guid: 972f6b0694c006941ad425ea3e87a547, type: 3}
+  - portraitName: Raline_Curious
+    sprite: {fileID: 21300000, guid: 278706dbc0ee8354b91ae5df81a3d56b, type: 3}
+  - portraitName: Raline_Smile
+    sprite: {fileID: 21300000, guid: 0a0693bf27b5889418d566be54dd8f91, type: 3}
+  - portraitName: Raline_Laugh
+    sprite: {fileID: 21300000, guid: 0314721316878614681f4a53d9342fac, type: 3}
+  - portraitName: Gavi_Default
+    sprite: {fileID: 21300000, guid: df81662d3e31124408783826bf56ac62, type: 3}
+  - portraitName: Gavi_Smile
+    sprite: {fileID: 21300000, guid: e5f3478a0c6c39c41ab9779e91a64b1e, type: 3}
+  - portraitName: Gavi_Suggest
+    sprite: {fileID: 21300000, guid: 16384eda3012e6b4ca58f0879863171b, type: 3}
+  - portraitName: Gavi_Laugh
+    sprite: {fileID: 21300000, guid: 5f592d0598966ee459d9e2a266425515, type: 3}
+  - portraitName: Aluna_Default
+    sprite: {fileID: 21300000, guid: da7673b1b119b5c4397aa424dd4e9b47, type: 3}
+  - portraitName: Aluna_Default
+    sprite: {fileID: 21300000, guid: da7673b1b119b5c4397aa424dd4e9b47, type: 3}

@@ -100,3 +100,30 @@ InitTestScene*.unity*
 
 # User Settings
 [Uu]ser[Ss]ettings/
+
+# ========================================
+# Project Specific - DO NOT COMMIT
+# ========================================
+
+# Build outputs (APK, executables, etc)
+apps/
+*.apk
+*.aab
+*.ipa
+*.exe
+
+# Backup files from merge conflicts
+backup/
+*__THEIRS
+*__MINE
+*__BASE
+*.orig
+
+# VSCode settings (optional: remove if team uses shared settings)
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+

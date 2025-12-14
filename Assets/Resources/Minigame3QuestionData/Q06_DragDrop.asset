@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02376f25e1abb9c4e84f5007f2f3fecf, type: 3}
+  m_Name: Q06_DragDrop
+  m_EditorClassIdentifier: 
+  id: Q06_DragDrop
+  type: 1
+  questionText: Wah, berkasnya berantakan. Bantu kasifikasiin dong.
+  correctExplanation: "Mantap jiwa! Kamu bisa bedain disinformasi (niat nipu), misinformasi
+    (niatnya polos tapi tetep salah), dan malinformasi (info valid tapi dipake buat
+    nyerang/nyakitin). Level kamu udah pro fact-checker \u2014 scammer, hoaks, sama
+    tukang doxing auto skip!"
+  incorrectExplanation: "Hmm\u2026 ada yang kebalik nih. Ingat, disinformasi = niat
+    nyesatin, misinformasi = polos tapi tetep salah, malinformasi = info valid tapi
+    dipake buat nyerang. Yuk, next time cek dulu niat sama konteksnya biar nggak
+    kejebak framing!"
+  options: []
+  correctAnswerIndex: 0
+  scenarios:
+  - id: Scenario1
+    description: Scammer sengaja menyamar sebagai @genz.berdampak
+  - id: Scenario2
+    description: Aluna reshare tanpa cek keaslian informasi
+  - id: Scenario3
+    description: Kriminal mengancam menyalahgunakan data KTP asli Mbak Dyta
+  categories:
+  - id: Category1
+    categoryName: MALINFORMASI
+    zoneColor: {r: 0.43137255, g: 0.34509805, b: 0, a: 0}
+  - id: Category2
+    categoryName: DISINFORMASI
+    zoneColor: {r: 0, g: 0.23137255, b: 0.2627451, a: 0}
+  - id: Category3
+    categoryName: MISINFORMASI
+    zoneColor: {r: 0.39683712, g: 0.2901961, b: 0.4490565, a: 0}
+  correctMappings:
+  - scenarioId: Scenario1
+    categoryId: Category2
+  - scenarioId: Scenario2
+    categoryId: Category3
+  - scenarioId: Scenario3
+    categoryId: Category1

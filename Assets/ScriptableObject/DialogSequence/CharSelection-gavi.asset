@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f50140316f9615d409a3666aa3f9096f, type: 3}
+  m_Name: CharSelection-gavi
+  m_EditorClassIdentifier: 
+  areaName: CharacterSelect
+  lines:
+  - speaker: System
+    text: '"Pilih karaktermu dong! Siap jadi detektif digital hari ini?"'
+    portraitExpression: 
+    useGeneratedDialog: 0
+    npcJsonFile: 
+    hasAction: 0
+    actionText: 
+    dialogType: narrator
+  - speaker: Gavi
+    text: '"Halo! Gavi di sini. Pecinta IT yang benci banget sama manipulasi digital!"'
+    portraitExpression: Gavi_Default
+    useGeneratedDialog: 0
+    npcJsonFile: 
+    hasAction: 0
+    actionText: 
+    dialogType: character
+  - speaker: Raline
+    text: '"Hai! Aku Raline. Kalau ada yang mencurigakan, aku langsung investigasi
+      sampai tuntas!"'
+    portraitExpression: Raline_Default
+    useGeneratedDialog: 0
+    npcJsonFile: 
+    hasAction: 0
+    actionText: 
+    dialogType: character
+  nextDialogSequence: {fileID: 0}
+  sequenceType: 0

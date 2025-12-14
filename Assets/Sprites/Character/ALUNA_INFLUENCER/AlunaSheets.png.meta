@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 831c06cf41e7e05488eb3fbacab3b838
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aluna_Sheets_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 674
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54693e8cef17de846923f58ec2138563
+      internalID: 403271949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 674
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161dd0003773b2d44953a95f8a86840f
+      internalID: 189132354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 674
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1cd28aba1badc4fa79571b0d06bfba
+      internalID: -702939072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 674
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da35fcc80a718458329e35cd88d4bb
+      internalID: 1797837295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 674
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413fa38e975f03b419364108a763686b
+      internalID: 884885714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 674
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b6eaee542e194b955c9ae3dd2e509
+      internalID: -1410722982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 675
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aff086cd14d1640b8c2918eb0b4332
+      internalID: -1215235225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 674
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3d356869579fa4dbbc44bb91480966
+      internalID: 301018239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 675
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f557962c24934e8f22725bbb3b94c
+      internalID: -285411930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 674
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a9a3d58f30d1249ae4f1360638a2af
+      internalID: -2144969095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 674
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3dd8198e091e04192b202673739671
+      internalID: -1443348815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 674
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb4edb865d3e874cbaa4b4b9ee3c9fa
+      internalID: -1615192998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 578
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33751fd2527ad014bbac3396c13bdfb5
+      internalID: -49523487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 578
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3f6909470c7744a8b89c85c9a66da
+      internalID: 170629118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 578
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856f8a5c82cd24408e8e963aa26b975
+      internalID: 1651462880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 578
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3f4a7530b23f408b9e92051e6c9c3
+      internalID: 1270834012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 578
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2451d03b23da4342be25e462fc2b09f
+      internalID: -1478722531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 578
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc03a1f1d9cae1d4c9e318771e12bfe8
+      internalID: 632750585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 578
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560142c8c74abd4da7456b3db117876
+      internalID: 1673627827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 578
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6cdfabf2e64714f963f87e34c49ebe
+      internalID: 123196149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 578
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e097e7d319b3ea4a8ed36a40d31ae6d
+      internalID: -591650777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 578
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9151ca956eaa6e448863c3d72760786
+      internalID: -239096849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 578
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380ec27836e3c9f49aefed6a91ecc4fa
+      internalID: -1236974432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da0327dcab65f44a95379c4dcbeb8e
+      internalID: 1685208988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 482
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe777fa30914a43a93ad01cb3a21ab
+      internalID: 893608007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 482
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdab6f81e0850d46a29971833b481db
+      internalID: -234561771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 482
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4e70d641f92c4bbeea82b44d6c82b
+      internalID: -532065764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 482
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec7a0ab4102f54c80e83a3a8e7a886
+      internalID: 1361365669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 482
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242dd57427c440946971e02e17a1d0f0
+      internalID: -1937943433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 482
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf019dd664578dd42a5cd003c44f6cc5
+      internalID: -487332713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 482
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c06bb1e921bd534e8a69ae53fb010ae
+      internalID: -670739385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 482
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648984e88a5a9744a652f754ec805a1
+      internalID: -1299971600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 482
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86c217378e72f4988203b0effb9ebb
+      internalID: -991855094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 482
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9743a67c15beb5c42b7b72667fc0c4d1
+      internalID: -1533547479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 482
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc70b7414f8a2c4fa0bbedf4e935c47
+      internalID: 1627538830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 482
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05337d028aa8f4a4aa2373a472c8127c
+      internalID: 604408685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 386
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613648787123034994fa4c265e79ce5
+      internalID: 1818338765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 386
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac80886c3dd0514c9b75e238fd1b5d2
+      internalID: 180647715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 386
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06885de34d101f439e9b422f2bda434
+      internalID: -633990551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 386
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a48b8b443c158418c6feb0553c894f
+      internalID: -800000203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 386
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9bc7d209c342448d34a58b80f3e11
+      internalID: -883483410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 386
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b83dee4c702e479b64502d916f4cd
+      internalID: -1444495572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 386
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f645de65cf7642d43875f5140570e568
+      internalID: 1501213760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 386
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f793418ebb114b8476c1dfe47b234
+      internalID: -1629093280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 386
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da05435c68c2304eb126e3328721861
+      internalID: -1206821722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 386
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae3f3090bdac545929474cc05b2a12
+      internalID: 121660610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 386
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de74f9f1ff726224fa61fa4ddc31bf0a
+      internalID: -1088962224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 386
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0804fe1a251f8b04598d1c89be5dc5ef
+      internalID: 1891736664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 290
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e5d99b4358504e8955a5bcf199707
+      internalID: 485292182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 290
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f49a3ec259c154faede7cf8e2c8875
+      internalID: -447602902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 290
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d075cd429eecc4ab72abef940980bd
+      internalID: 253705008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 290
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3313da8b5bc745ab857db8c0b243d
+      internalID: 374673645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 290
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809628b86733740458c0c4e4f5de3d69
+      internalID: -1457314312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 290
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a0734862a15a4bb9d3bf05e09a33f
+      internalID: -1290341615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 298
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baad894a1076de4a8964121a675a857
+      internalID: 537528641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 299
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad1be4100b6f642b3d463d3321d79d
+      internalID: -1364204542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 298
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e20129613f9e64d9dde4d2a4283685
+      internalID: 1284038893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 290
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93516084c7d83e74c8313fe772c62730
+      internalID: -1803982318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_58
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 290
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfae48e912b28e479c0a358993a0f9f
+      internalID: -1658045024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 290
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239b43a70da2ea24ba824b04b66be0e2
+      internalID: 3174670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 194
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793bcbec528b4544db553a1855f12cda
+      internalID: -1568937126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66aa5c6f7bf30d49ae003abba6e8b52
+      internalID: -1477965209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 194
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6fa12943ca1ef429207f4a9a03726b
+      internalID: 1619054391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 194
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0117b4f94e39be249b047a1bd4252a7b
+      internalID: 655876276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201bf0c6feb01c4485a75239cabdff0
+      internalID: 1479124992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a9ebba65e21c40befab76e91d7518
+      internalID: -676550401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 205
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172941c9c4f4c7f4c80d8c87fbba9c68
+      internalID: 904487106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 209
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3dc1253588fe42b55d3b204276a33
+      internalID: -915165978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 209
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e29a9d6080c74e95f78570a61be2f
+      internalID: 174022690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 194
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e57ac9f85c52b44947201b2e46bc21
+      internalID: -1792588635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_70
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 194
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab614208da171eb45bc584096a19a0b5
+      internalID: -236023928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 194
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d10d5c889160048aa5f9e1772dc814
+      internalID: 1318411116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 98
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fa36d72249864eb2463aa5d4ee76a
+      internalID: -839832973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 98
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d171a54c84d040848fdef32abee27
+      internalID: 2129430042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33fd3ac58a29a468e5ed14811f7a7f
+      internalID: -1526138109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 98
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8713cbc2d6b7640a737eda818246bc
+      internalID: -49892272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_76
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d745e11034f3cf4da4f1f1186085c7b
+      internalID: -1057192809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 98
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7aa51aac191945822dd40750ee0ac
+      internalID: 433630476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 98
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ed5bd77e90cf4ba697ecb5b82609e
+      internalID: -173596492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_79
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 98
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33c90f0c718df43b0676854f3a97d0
+      internalID: 1895418485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 98
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebbf20e0381e24e8805f8ec69e0543
+      internalID: 1633894948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_81
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 98
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2dd390f61b984b99958164497155e
+      internalID: -1224188766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85054f3794fa65c4098b68172010c94d
+      internalID: 1313144331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 98
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc4f912e470cc409126a9850549c4f
+      internalID: 1394510041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbd65bebc5f6d4883da0406d0e52f3
+      internalID: 848133803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175167976d12324cacaa00104317383
+      internalID: -630213150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d14d8bf437653c448b52a1b4eba2026
+      internalID: 1923558940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fc9903a967b649aa9c8f55db6848c
+      internalID: -2080939394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b991d25858f014c80c27dbd4c33c71
+      internalID: -472241230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_89
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aed5e010e201244ac10468db61e4b1
+      internalID: 1778409926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70cdac7945e034eaff512d3be78604
+      internalID: -665764752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc90ae48c942674d8aa67453330a605
+      internalID: 832845781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8fcd82c6db2c499b659061a3ec40a
+      internalID: 152403293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_93
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f1ed60977350f488a0ab9854b04135
+      internalID: -600571844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654050ec4add0984bbc91043dbbf2848
+      internalID: 1868425032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluna_Sheets_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1729c2d32db021943941986d47beb425
+      internalID: -1002891004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a3628b70ae2411d40a813d08cb1ac1ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aluna_Sheets_0: 403271949
+      Aluna_Sheets_1: 189132354
+      Aluna_Sheets_10: -1443348815
+      Aluna_Sheets_11: -1615192998
+      Aluna_Sheets_12: -49523487
+      Aluna_Sheets_13: 170629118
+      Aluna_Sheets_14: 1651462880
+      Aluna_Sheets_15: 1270834012
+      Aluna_Sheets_16: -1478722531
+      Aluna_Sheets_17: 632750585
+      Aluna_Sheets_18: 1673627827
+      Aluna_Sheets_19: 123196149
+      Aluna_Sheets_2: -702939072
+      Aluna_Sheets_20: -591650777
+      Aluna_Sheets_21: -239096849
+      Aluna_Sheets_22: -1236974432
+      Aluna_Sheets_23: 1685208988
+      Aluna_Sheets_24: 893608007
+      Aluna_Sheets_25: -234561771
+      Aluna_Sheets_26: -532065764
+      Aluna_Sheets_27: 1361365669
+      Aluna_Sheets_28: -1937943433
+      Aluna_Sheets_29: -487332713
+      Aluna_Sheets_3: 1797837295
+      Aluna_Sheets_30: -670739385
+      Aluna_Sheets_31: -1299971600
+      Aluna_Sheets_32: -991855094
+      Aluna_Sheets_33: -1533547479
+      Aluna_Sheets_34: 1627538830
+      Aluna_Sheets_35: 604408685
+      Aluna_Sheets_36: 1818338765
+      Aluna_Sheets_37: 180647715
+      Aluna_Sheets_38: -633990551
+      Aluna_Sheets_39: -800000203
+      Aluna_Sheets_4: 884885714
+      Aluna_Sheets_40: -883483410
+      Aluna_Sheets_41: -1444495572
+      Aluna_Sheets_42: 1501213760
+      Aluna_Sheets_43: -1629093280
+      Aluna_Sheets_44: -1206821722
+      Aluna_Sheets_45: 121660610
+      Aluna_Sheets_46: -1088962224
+      Aluna_Sheets_47: 1891736664
+      Aluna_Sheets_48: 485292182
+      Aluna_Sheets_49: -447602902
+      Aluna_Sheets_5: -1410722982
+      Aluna_Sheets_50: 253705008
+      Aluna_Sheets_51: 374673645
+      Aluna_Sheets_52: -1457314312
+      Aluna_Sheets_53: -1290341615
+      Aluna_Sheets_54: 537528641
+      Aluna_Sheets_55: -1364204542
+      Aluna_Sheets_56: 1284038893
+      Aluna_Sheets_57: -1803982318
+      Aluna_Sheets_58: -1658045024
+      Aluna_Sheets_59: 3174670
+      Aluna_Sheets_6: -1215235225
+      Aluna_Sheets_60: -1568937126
+      Aluna_Sheets_61: -1477965209
+      Aluna_Sheets_62: 1619054391
+      Aluna_Sheets_63: 655876276
+      Aluna_Sheets_64: 1479124992
+      Aluna_Sheets_65: -676550401
+      Aluna_Sheets_66: 904487106
+      Aluna_Sheets_67: -915165978
+      Aluna_Sheets_68: 174022690
+      Aluna_Sheets_69: -1792588635
+      Aluna_Sheets_7: 301018239
+      Aluna_Sheets_70: -236023928
+      Aluna_Sheets_71: 1318411116
+      Aluna_Sheets_72: -839832973
+      Aluna_Sheets_73: 2129430042
+      Aluna_Sheets_74: -1526138109
+      Aluna_Sheets_75: -49892272
+      Aluna_Sheets_76: -1057192809
+      Aluna_Sheets_77: 433630476
+      Aluna_Sheets_78: -173596492
+      Aluna_Sheets_79: 1895418485
+      Aluna_Sheets_8: -285411930
+      Aluna_Sheets_80: 1633894948
+      Aluna_Sheets_81: -1224188766
+      Aluna_Sheets_82: 1313144331
+      Aluna_Sheets_83: 1394510041
+      Aluna_Sheets_84: 848133803
+      Aluna_Sheets_85: -630213150
+      Aluna_Sheets_86: 1923558940
+      Aluna_Sheets_87: -2080939394
+      Aluna_Sheets_88: -472241230
+      Aluna_Sheets_89: 1778409926
+      Aluna_Sheets_9: -2144969095
+      Aluna_Sheets_90: -665764752
+      Aluna_Sheets_91: 832845781
+      Aluna_Sheets_92: 152403293
+      Aluna_Sheets_93: -600571844
+      Aluna_Sheets_94: 1868425032
+      Aluna_Sheets_95: -1002891004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

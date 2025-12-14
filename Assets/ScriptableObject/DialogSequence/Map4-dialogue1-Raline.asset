@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f50140316f9615d409a3666aa3f9096f, type: 3}
+  m_Name: Map4-dialogue1-Raline
+  m_EditorClassIdentifier: 
+  sequenceName: Map4-dialogue1-Raline
+  sequenceDescription: 
+  dialogue:
+  - speaker: Scammer 1
+    dialogue: "<i>Spins around in chair, startled </i> \r\nSiapa kalian? Bagaimana
+      kalian bisa trace lokasi kami?\r\n"
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: b07b825422ec92343b914ef2b757c3fe, type: 3}
+      imageLocation: 0
+      clearImage: 0
+  - speaker: Player
+    dialogue: "<i>Steps forward confidently </i>\r\nKalian menjalankan kampanye impersonation
+      yang menargetkan @genz.berdampak untuk menipu orang, kan?\r"
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: 0a0693bf27b5889418d566be54dd8f91, type: 3}
+      imageLocation: 0
+      clearImage: 0
+  - speaker: Scammer 2
+    dialogue: "<i>Crosses arms arrogantly </i>\r\nTerus kenapa? Orang-orang mudah
+      ditipu - kami cuma memanfaatkan buta literasi digital dan kepercayaan pada
+      organisasi legitimate!\r"
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: fb2dca35b6f3e8a499393c74ecd079e1, type: 3}
+      imageLocation: 0
+      clearImage: 0
+  - speaker: Player
+    dialogue: "<i>Points accusingly </i>\r\nKalian mengeksploitasi kepercayaan orang
+      pada organisasi dampak sosial asli untuk keuntungan kriminal!\"\r"
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: 22668506a6963524488680bd66a3c24d, type: 3}
+      imageLocation: 0
+      clearImage: 0
+  - speaker: Gavi
+    dialogue: '<i>Holds up tablet </i>
+
+      Dan setiap bukti digital dari skema
+      impersonation kalian sudah didokumentasikan. Divisi cyber crime menerima paket
+      forensik lengkap!
+
+'
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: 71470c394e134c54d969226aa9b2574e, type: 3}
+      imageLocation: 0
+      clearImage: 0
+  - speaker: Scammer 1
+    dialogue: '<i> Panic setting in, hands raised </i>
+
+      Tunggu, kami cuma butuh
+      uang...
+
+'
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: 93836f8900dc0fa46946466d5c8ec50b, type: 3}
+      imageLocation: 0
+      clearImage: 0
+  - speaker: Player
+    dialogue: "<i>Firm but educational tone</i> \r\nAda cara etis untuk income online!
+      Menyamar sebagai organisasi legitimate dan harvesting data untuk pencurian
+      identitas adalah eksploitasi!\r\n"
+    imagePotrait:
+      potraitImage: {fileID: 21300000, guid: 278706dbc0ee8354b91ae5df81a3d56b, type: 3}
+      imageLocation: 0
+      clearImage: 0

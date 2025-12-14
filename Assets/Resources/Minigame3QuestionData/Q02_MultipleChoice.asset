@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02376f25e1abb9c4e84f5007f2f3fecf, type: 3}
+  m_Name: Q02_MultipleChoice
+  m_EditorClassIdentifier: 
+  id: Q02_MultipleChoice
+  type: 0
+  questionText: "Ada post viral bilang, \"KaburAjaDulu berarti anak muda males membangun
+    negeri.\" Tapi kamu tahu ada artikel di penerbit terpercaya dan peneliti universitas
+    yang bilang tren tersebut murni bentuk kritik konstruktif\u2014karena frustasi
+    soal biaya pendidikan dan karier. Apa langkah paling tepat menurut metode SIFT?"
+  correctExplanation: "\u201CTrace claim\u201D ke sumber kredibel itu cara bijak
+    ala SIFT: cek dulu yang paling asli dan mendalam."
+  incorrectExplanation: Popularitas atau komentar netizen bukan jaminan kebenaran
+    konteks.
+  options:
+  - Pilih info yang paling banyak dibagikan
+  - Langsung percaya kalau komentarnya rame dan banyak yang pro
+  - 'Telusuri sumber primer: cek riset dan laporan dari sumber kredibel untuk konteks
+    lengkap'
+  - Tolak aja karena terlalu negatif
+  correctAnswerIndex: 2
+  scenarios: []
+  categories: []
+  correctMappings: []
