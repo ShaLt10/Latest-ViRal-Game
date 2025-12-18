@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f50140316f9615d409a3666aa3f9096f, type: 3}
+  m_Name: Area1-PlayerOpening-Gavi
+  m_EditorClassIdentifier: 
+  areaName: Area1-PlayerOpening-Gavi
+  sequenceType: 0
+  lines:
+  - speaker: Gavi
+    text: '"Nice ambience for strolling around! Eh, gue belum cek Discord sih semalem,
+      tapi tumben notifnya serame ini?"'
+    portraitExpression: Gavi_Innocent
+    dialogType: 0
+    useGeneratedDialog: 0
+    npcJsonFile: 
+    hasAction: 1
+    actionText: Yawning, scrolling through phone
+  - speaker: Kanaya
+    text: '"HELLOO BESTIEE! Ada freelance WFH yang dibayar 50 ribu - 250 ribu perhari
+      lhoo!'
+    portraitExpression: Gavi_Innocent
+    dialogType: 0
+    useGeneratedDialog: 0
+    npcJsonFile: 
+    hasAction: 0
+    actionText: 
+  - speaker: Raline
+    text: Wah, serius?  In this economy, lumayan banget... Coba tunjukkan dong!"
+    portraitExpression: Raline_Curious
+    dialogType: 0
+    useGeneratedDialog: 0
+    npcJsonFile: 
+    hasAction: 0
+    actionText: 
+  winSequence: {fileID: 0}
+  loseSequence: {fileID: 0}
+  nextDialogSequence: {fileID: 0}

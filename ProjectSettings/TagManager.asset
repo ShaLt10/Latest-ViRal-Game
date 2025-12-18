@@ -9,7 +9,6 @@ TagManager:
   - Enemy
   - World
   - NoMask
-  - NPC
   layers:
   - Default
   - TransparentFX
@@ -17,14 +16,14 @@ TagManager:
   - 
   - Water
   - UI
-  - Tilemap1
-  - Tilemap2
-  - Tilemap3
-  - Characters
-  - Minigame1
-  - Minigame2
-  - Minigame3
-  - NPC
+  - 
+  - 
+  - Obstacles
+  - Ground
+  - Player
+  - ObstaclesDoors
+  - NoPathfinding
+  - Enemies
   - NoCollisions
   - Hole
   - MovingPlatform

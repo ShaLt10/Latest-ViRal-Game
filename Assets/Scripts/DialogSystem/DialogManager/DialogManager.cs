@@ -1,5 +1,3 @@
-// DialogManager.cs - GLOBAL ORCHESTRATOR (Enhanced)
-// PELETAKAN: Scripts/Dialog/DialogManager.cs
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -68,21 +66,10 @@ public class DialogManager : MonoBehaviour
             dialogUI.OnSequenceComplete -= HandleUISequenceComplete;
     }
 
-    // === Public API ===
-
-    /// <summary>
-    /// True kalau UI dialog lagi aktif.
-    /// </summary>
     public bool IsDialogActive()
     {
         return dialogUI != null && dialogUI.IsActive();
     }
-
-    /// <summary>
-    /// Mainkan sequence langsung dari reference asset.
-    /// Optional: onDone dipanggil ketika sequence selesai.
-    /// Optional: bypassValidation untuk force play tanpa check objective.
-    /// </summary>
     public void PlaySequence(DialogSequence sequence, System.Action onDone = null, bool bypassValidation = false)
     {
         if (dialogUI == null)
@@ -98,8 +85,6 @@ public class DialogManager : MonoBehaviour
             onDone?.Invoke();
             return;
         }
-
-        // ✨ NEW: Validation check untuk scripted dialog
         if (!bypassValidation && enableObjectiveValidation)
         {
             if (!CanPlayScriptedDialog(sequence))
@@ -114,17 +99,11 @@ public class DialogManager : MonoBehaviour
         dialogUI.PlaySequence(sequence);
     }
 
-    /// <summary>
-    /// Mainkan sequence berdasarkan string key (biasanya sama dengan asset.name).
-    /// </summary>
     public void PlaySequenceByName(string key)
     {
         PlaySequenceByName(key, null);
     }
 
-    /// <summary>
-    /// Mainkan sequence by key dan jalankan callback setelah selesai.
-    /// </summary>
     public void PlaySequenceByName(string key, System.Action onDone)
     {
         DialogSequence seq = FindSequence(key);
@@ -137,18 +116,11 @@ public class DialogManager : MonoBehaviour
 
         PlaySequence(seq, onDone);
     }
-
-    /// <summary>
-    /// Alias yang lebih "ngomong" seperti yang dipakai di Map1 & InstagramFeedManager.
-    /// </summary>
     public void PlaySequenceThen(string key, System.Action onDone)
     {
         PlaySequenceByName(key, onDone);
     }
 
-    /// <summary>
-    /// Force play dialog tanpa validation (untuk generated/casual dialog).
-    /// </summary>
     public void PlayCasualDialog(DialogSequence sequence, System.Action onDone = null)
     {
         PlaySequence(sequence, onDone, bypassValidation: true);
@@ -156,10 +128,6 @@ public class DialogManager : MonoBehaviour
 
     // === Validation (Integration dengan ObjectiveManager) ===
 
-    /// <summary>
-    /// Check apakah scripted dialog bisa dimainkan.
-    /// Generated/casual dialog SELALU bypass check ini.
-    /// </summary>
     private bool CanPlayScriptedDialog(DialogSequence sequence)
     {
         // Kalau nggak ada ObjectiveManager, allowed
@@ -174,11 +142,6 @@ public class DialogManager : MonoBehaviour
         // Kita anggap scripted dialog itu "story progression"
         return ObjectiveManager.Instance.CanProgressStory();
     }
-
-    /// <summary>
-    /// Detect apakah sequence ini adalah generated/casual dialog.
-    /// Generated dialog = runtime-created, bukan dari asset.
-    /// </summary>
     private bool IsGeneratedDialog(DialogSequence sequence)
     {
         if (sequence == null) return false;
@@ -199,10 +162,6 @@ public class DialogManager : MonoBehaviour
 
         return false;
     }
-
-    /// <summary>
-    /// Check apakah sequence adalah asset atau runtime instance.
-    /// </summary>
     private bool IsAssetSequence(DialogSequence sequence)
     {
         // Kalau ada di registered sequences, berarti asset
